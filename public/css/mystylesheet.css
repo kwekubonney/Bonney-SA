@@ -1,0 +1,5 @@
+#shows{
+background-image:url(' {{asset('/image/bbg.jpeg')}}'); 
+background-repeat:no-repeat;
+background-size:cover;
+}
